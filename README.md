@@ -5,6 +5,11 @@
 -database which used in mini-chat is nosql-datbase(josn) and there is no need to import or create external database 
 
 
+# usage :
+
+-just clone project in xamp htdocs(or root of any web server)
+
+
 # steructure :
 
 1. app (config , request , app)
