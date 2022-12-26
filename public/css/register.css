@@ -1,0 +1,28 @@
+.container-register{
+    position: relative;
+    top: 100px;
+}
+
+.btn-custom{
+    border-radius: 30px !important;
+    border: none !important;
+    background: rgb(132, 55, 226) !important;
+    width: 120px !important;
+    height: 35px !important;
+    color: #fff !important;
+
+}
+
+.err{
+    color: rgb(244, 55, 55);
+}
+
+
+.info-name{
+   font-size: 0.9rem;
+}
+
+
+ h3{
+    font-size: 1rem !important;
+ }

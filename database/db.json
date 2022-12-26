@@ -1,0 +1,272 @@
+{
+    "users": [
+        {
+            "id": 119893,
+            "username": "ali",
+            "fullName": "ali moghadam",
+            "password": "1234",
+            "avatar": "avatar.jpg",
+            "online": true
+        },
+        {
+            "id": 471856,
+            "username": "reza",
+            "fullName": "reza ahmadi",
+            "password": "1234",
+            "avatar": "avatar.jpg",
+            "online": true
+        },
+        {
+            "id": 5970,
+            "username": "hojat",
+            "fullName": "hojat mohamadi",
+            "password": "1234",
+            "avatar": "avatar.jpg",
+            "online": true
+        },
+        {
+            "id": 291059,
+            "username": "test",
+            "fullName": "test",
+            "password": "1234",
+            "avatar": "avatar.jpg",
+            "online": true
+        },
+        {
+            "id": 866723,
+            "username": "hossein",
+            "fullName": "asdas",
+            "password": "1234",
+            "avatar": "avatar.jpg",
+            "online": true
+        }
+    ],
+    "user-conatcs": [
+        {
+            "8758984sadzZsa": [
+                "sa8297489asd",
+                "adlskj2439u2"
+            ]
+        }
+    ],
+    "groups": [
+        {
+            "id": "sadaqw",
+            "owner": "8758984sadzZsa",
+            "admins": [],
+            "created": "20\/2\/2022"
+        }
+    ],
+    "users-chat": [
+        {
+            "119893": {
+                "471856": [
+                    {
+                        "txt": "mamnonet daei\r\n",
+                        "date": "2022\/Jul\/17 19:25:00"
+                    },
+                    {
+                        "txt": "shokr",
+                        "date": "2022\/Jul\/17 19:25:13"
+                    },
+                    {
+                        "txt": "hale",
+                        "date": "2022\/Jul\/17 19:41:22"
+                    },
+                    {
+                        "txt": "inti shode dige\r\n",
+                        "date": "2022\/Jul\/17 19:41:50"
+                    },
+                    {
+                        "txt": "are",
+                        "date": "2022\/Jul\/17 19:41:54"
+                    },
+                    {
+                        "txt": "jedi",
+                        "date": "2022\/Jul\/18 13:42:45"
+                    },
+                    {
+                        "txt": "bashe",
+                        "date": "2022\/Jul\/18 13:48:50"
+                    },
+                    {
+                        "txt": "daqiqanmishe",
+                        "date": "2022\/Jul\/18 13:49:18"
+                    },
+                    {
+                        "txt": "kkk",
+                        "date": "2022\/Jul\/18 13:53:26"
+                    },
+                    {
+                        "txt": "q",
+                        "date": "2022\/Jul\/18 14:03:28"
+                    },
+                    {
+                        "txt": "ok",
+                        "date": "2022\/Jul\/18 14:51:56"
+                    },
+                    {
+                        "txt": "ooooooooooooooooooo",
+                        "date": "2022\/Jul\/18 15:49:53"
+                    },
+                    {
+                        "txt": "ahdiuasdiahsuida",
+                        "date": "2022\/Jul\/19 16:56:17"
+                    },
+                    {
+                        "txt": "aleyk",
+                        "date": "2022\/Dec\/26 09:34:47"
+                    }
+                ],
+                "5970": [
+                    {
+                        "txt": "chtori hojat\r\n",
+                        "date": "2022\/Jul\/18 11:42:01"
+                    },
+                    {
+                        "txt": "salam hojat\r\n",
+                        "date": "2022\/Jul\/18 14:52:24"
+                    },
+                    {
+                        "txt": "salam",
+                        "date": "2022\/Dec\/26 10:06:40"
+                    }
+                ]
+            }
+        },
+        {
+            "471856": {
+                "119893": [
+                    {
+                        "txt": "salam ali\r\n",
+                        "date": "2022\/Jul\/17 19:24:30"
+                    },
+                    {
+                        "txt": "khubi daei\r\n\r\n",
+                        "date": "2022\/Jul\/17 19:24:37"
+                    },
+                    {
+                        "txt": "chetori\r\n",
+                        "date": "2022\/Jul\/17 19:25:07"
+                    },
+                    {
+                        "txt": "ok",
+                        "date": "2022\/Jul\/17 19:41:12"
+                    },
+                    {
+                        "txt": "chetor momkene\r\n",
+                        "date": "2022\/Jul\/17 19:41:37"
+                    },
+                    {
+                        "txt": "hey khoda\r\n",
+                        "date": "2022\/Jul\/18 11:44:18"
+                    },
+                    {
+                        "txt": "hoooooooooo\r\n",
+                        "date": "2022\/Jul\/18 13:32:47"
+                    },
+                    {
+                        "txt": "chetori",
+                        "date": "2022\/Jul\/18 13:37:04"
+                    },
+                    {
+                        "txt": "lo",
+                        "date": "2022\/Jul\/18 13:42:19"
+                    },
+                    {
+                        "txt": "hamintori",
+                        "date": "2022\/Jul\/18 13:44:55"
+                    },
+                    {
+                        "txt": "hamintori",
+                        "date": "2022\/Jul\/18 13:44:58"
+                    },
+                    {
+                        "txt": "yani chi\r\n",
+                        "date": "2022\/Jul\/18 13:46:13"
+                    },
+                    {
+                        "txt": "intori k nmishe\r\n",
+                        "date": "2022\/Jul\/18 13:49:06"
+                    },
+                    {
+                        "txt": "ee\r\n",
+                        "date": "2022\/Jul\/18 14:04:02"
+                    },
+                    {
+                        "txt": "uuuuu",
+                        "date": "2022\/Jul\/18 14:52:06"
+                    },
+                    {
+                        "txt": "salam",
+                        "date": "2022\/Jul\/18 15:50:15"
+                    },
+                    {
+                        "txt": "salma",
+                        "date": "2022\/Jul\/19 16:56:34"
+                    },
+                    {
+                        "txt": "salam\r\n\r\n",
+                        "date": "2022\/Dec\/26 09:34:30"
+                    }
+                ],
+                "5970": [
+                    {
+                        "txt": "salma\r\n",
+                        "date": "2022\/Jul\/18 15:47:04"
+                    }
+                ]
+            }
+        },
+        {
+            "5970": {
+                "119893": [
+                    {
+                        "txt": "mamnon\r\n",
+                        "date": "2022\/Jul\/18 11:42:45"
+                    },
+                    {
+                        "txt": "khubam merci\r\n",
+                        "date": "2022\/Jul\/18 14:52:40"
+                    },
+                    {
+                        "txt": "chetori",
+                        "date": "2022\/Dec\/26 10:07:57"
+                    }
+                ],
+                "471856": [
+                    {
+                        "txt": "chakeram",
+                        "date": "2022\/Jul\/18 15:47:40"
+                    }
+                ]
+            }
+        },
+        {
+            "291059": {
+                "119893": [
+                    {
+                        "txt": "salam ali",
+                        "date": "2022\/Dec\/26 10:23:00"
+                    }
+                ]
+            }
+        },
+        {
+            "866723": []
+        }
+    ],
+    "group-chat": [
+        {
+            "id": "sadaqw",
+            "chats": [
+                {
+                    "user-id": "sa8297489asd",
+                    "txt": "this is user pm",
+                    "date": "20\/2\/2022",
+                    "reply-to": 0
+                }
+            ]
+        }
+    ]
+}
