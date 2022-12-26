@@ -10,7 +10,7 @@
 -just clone project in xamp htdocs(or root of any web server)
 
 
-# steructure :
+# structure :
 
 1. app (config , request , app)
 2. database (db.json)
