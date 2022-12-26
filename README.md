@@ -1,4 +1,4 @@
-### ## Welcome to the mini-chat !
+# Welcome to the mini-chat !
 
 -this project its just **portfolio** and work with vanila **javscript** and pure **php** (functional) 
 
